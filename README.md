@@ -1,2 +1,2 @@
-﻿# bni-ops
+# bni-ops
 
